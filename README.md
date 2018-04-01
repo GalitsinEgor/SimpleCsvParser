@@ -3,6 +3,7 @@ A simple parser for data formatted in csv. It's able to parse simple value types
 
 To parse class values from a string, you need to use System.ComponentModel.TypeDescriptor. It doesn't work with user classes initially. There is an example of how you can make it parse strings into classes:
 
+```C#
 [TypeConverter(typeof(CustomClassTypeConverter))]
 public class CustomClass{...}
 
@@ -23,3 +24,4 @@ public class CustomClass : TypeConverter
 			}
   }
 }
+```C#
