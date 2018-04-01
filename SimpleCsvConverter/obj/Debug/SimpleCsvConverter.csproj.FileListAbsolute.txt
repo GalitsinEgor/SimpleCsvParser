@@ -1,0 +1,5 @@
+C:\Projects C#\SimpleScvConverter\SimpleCsvConverter\SimpleCsvConverter\bin\Debug\SimpleCsvConverter.dll
+C:\Projects C#\SimpleScvConverter\SimpleCsvConverter\SimpleCsvConverter\bin\Debug\SimpleCsvConverter.pdb
+C:\Projects C#\SimpleScvConverter\SimpleCsvConverter\SimpleCsvConverter\obj\Debug\SimpleCsvConverter.csprojResolveAssemblyReference.cache
+C:\Projects C#\SimpleScvConverter\SimpleCsvConverter\SimpleCsvConverter\obj\Debug\SimpleCsvConverter.dll
+C:\Projects C#\SimpleScvConverter\SimpleCsvConverter\SimpleCsvConverter\obj\Debug\SimpleCsvConverter.pdb
