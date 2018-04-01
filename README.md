@@ -13,15 +13,14 @@ public class CustomClass : TypeConverter
   public override object ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, object value)
   {
       if (value is string)
-			{
-        //parsing logic 
-
-				return customClass;
-			}
-			else
-			{
-				return null;
-			}
+      {
+      	//parsing logic 
+	return customClass;
+      }
+      else
+      {
+      	return null;
+      }         
   }
 }
-```C#
+```
